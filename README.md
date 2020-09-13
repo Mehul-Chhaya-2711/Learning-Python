@@ -3,7 +3,7 @@ Learning python from the basics
 
 ```
 Date: 13-09-2020
-
+Reference Material: Think Python by Allen B. Downey
 Topic: Just Basics: Remember it is a formal and not Natural language. It means exactly what the words mean; no figures of speech involved.
 
 •	A chevron is an inverted V-shaped pattern. The word is usually used in reference to a kind of fret in architecture, or to a badge or insignia used in military or police uniforms to indicate rank or length of service, or in heraldry and the designs of flags.
